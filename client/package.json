@@ -44,5 +44,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },"proxy":"https://hotelbooking-backend-ddvg.onrender.com"
+=======
+  },
+  "proxy": "http://localhost:8000/api",
+  "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7"
+  }
+>>>>>>> 44eaf47 (first commit)
 }
