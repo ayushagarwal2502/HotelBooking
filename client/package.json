@@ -42,7 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },"proxy":"https://hotelbooking-backend-ddvg.onrender.com",
-  "dependencies":{
-    "@babel/plugin-proposal-private-property-in-object"
+  },"proxy":"https://hotelbooking-backend-ddvg.onrender.com"
   }
